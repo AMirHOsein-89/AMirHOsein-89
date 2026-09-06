@@ -7,4 +7,4 @@
 <img src="https://skillicons.dev/icons?i=html,css,git,github" alt="logo"/>
 
 <h3>Tools:</h3>
-<img src="[https://skillicons.dev/icons?i=vscode](https://skillicons.dev/icons?i=vscode,figma&theme=light)">
+<img src="https://skillicons.dev/icons?i=vscode,figma&theme=light">
